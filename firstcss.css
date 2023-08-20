@@ -1,0 +1,100 @@
+body{
+    font-family: cursive;
+    background-color: rgba(72, 172, 89, 0.579);
+}
+.number{
+    border-color: rgba(225, 30, 30, 0);
+    border-width: 1mm;
+    border-style: solid;
+    align-items: center;
+    float: left;
+  margin-left: 25px;
+  margin-top: 20px;
+  height: 300px;
+  border-radius: 100%;
+
+}
+h1{
+    font-weight: bolder;
+    color: rgba(18, 60, 196, 0.575);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:hover{
+    color: rgb(236, 15, 15);
+}
+a:visited{
+    color: cyan;
+}
+a{
+    color: rgb(25, 29, 53);
+
+}
+nav{
+    height: 1cm;
+    word-spacing: 10mm;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: rgba(142, 97, 33, 0.659);
+    position: sticky;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+
+p{
+    border:2px solid rgb(0, 0, 0);
+    width: 40%;
+    margin-left: 150px;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: rgba(127, 255, 212, 0.647);
+    position: absolute;
+    top: 300px;
+    left: 150px;
+
+}
+.icons{
+    width:20px;
+    height: 20px;
+    margin-left: 20px;
+}
+.bio{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border: 2px;
+}
+.body{
+    background-color: rgba(159, 167, 157, 0.951);
+    width:100%;
+    height: 600px;
+    margin-left: 0px;
+    border-radius: 10px;
+}
+footer>a:hover{
+   width: 25px;
+   height: 25px;
+}
+.try{
+    height: 700px;
+    position: absolute;
+    top: 70px;
+    left: 65%;
+    border-radius: 10px;
+}
+#two:hover{
+    opacity: 0;
+}
+#hover{
+    position: absolute;
+    top:70px ;
+    left: 77%;
+    background-color: rgb(182, 171, 171);
+}
